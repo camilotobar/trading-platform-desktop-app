@@ -1,0 +1,42 @@
+Reporte activos 2017-03-17_02-57-36
+
+EUR - ultimo precio del mercado: Ask [1,1189], Bid [1,1183] 
+	Euro
+Lote unitario de: 100 unidades
+
+GBP - ultimo precio del mercado: Ask [1,2892], Bid [1,2882] 
+	Libra Esterlina
+Lote unitario de: 100 unidades
+
+AUD - ultimo precio del mercado: Ask [0,757], Bid [0,7552] 
+	Dólar Australiano
+Lote unitario de: 1000 unidades
+
+GOOGL - ultimo precio del mercado: Ask [736,2406], Bid [735,8606] 
+	Acción Alphabet Inc.
+Lote unitario de: 1 unidades
+
+AAPL - ultimo precio del mercado: Ask [105,8308], Bid [105,6408] 
+	Acción Apple Inc.
+Lote unitario de: 1 unidades
+
+XAU - ultimo precio del mercado: Ask [1221,3895], Bid [1220,8595] 
+	Oro Ref. Común
+Lote unitario de: 1 unidades
+
+BRENT - ultimo precio del mercado: Ask [45,4127], Bid [45,3427] 
+	Petróleo Ref. Europa
+Lote unitario de: 10 unidades
+
+COLTES5Y - ultimo precio del mercado: Ask [15350,617], Bid [15349,167] 
+	Bono Tesoro Colombia
+Tasa de interés de: 0.15%
+
+BRA5Y - ultimo precio del mercado: Ask [18455,16], Bid [18453,96] 
+	Bono Tesoro Brasil
+Tasa de interés de: 0.15%
+
+USM6M - ultimo precio del mercado: Ask [3000,526], Bid [2999,226] 
+	Hipoteca Florida EE.UU.
+Tasa de interés de: 0.02%
+

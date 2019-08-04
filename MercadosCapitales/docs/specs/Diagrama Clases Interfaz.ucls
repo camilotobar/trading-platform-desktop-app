@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.9" icons="false" automaticImage="PNG" always-add-relationships="false" 
+  generalizations="false" realizations="false" associations="true" dependencies="true" nesting-relationships="false" 
+  router="FAN">  
+  <class id="1" language="java" name="interfaz.BarraArchivo" project="MercadosCapitales" 
+    file="/MercadosCapitales/src/interfaz/BarraArchivo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1109" y="499"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="interfaz.DialogoAgregarCorredor" project="MercadosCapitales" 
+    file="/MercadosCapitales/src/interfaz/DialogoAgregarCorredor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="966" y="964"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="interfaz.DialogoInfoActivo" project="MercadosCapitales" 
+    file="/MercadosCapitales/src/interfaz/DialogoInfoActivo.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="446" y="163"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="interfaz.PanelActivos" project="MercadosCapitales" 
+    file="/MercadosCapitales/src/interfaz/PanelActivos.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="296" y="494"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="interfaz.PanelGestion" project="MercadosCapitales" 
+    file="/MercadosCapitales/src/interfaz/PanelGestion.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1005" y="181"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="interfaz.PanelGrafica" project="MercadosCapitales" 
+    file="/MercadosCapitales/src/interfaz/PanelGrafica.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="399" y="1036"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="interfaz.InterfazMercadosCapitales" project="MercadosCapitales" 
+    file="/MercadosCapitales/src/interfaz/InterfazMercadosCapitales.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="665" y="501"/>    
+    <display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="true" static="true"/>      
+      <operations public="true" package="false" protected="false" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="8">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="9" name="ventana"/>      
+      <multiplicity id="10" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="11">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="12" name="menuVer"/>      
+      <multiplicity id="13" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="14">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="15" name="ventana"/>      
+      <multiplicity id="16" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="17">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="18" name="ventana"/>      
+      <multiplicity id="19" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="20">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="21" name="panelGestion"/>      
+      <multiplicity id="22" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="24" name="ventana"/>      
+      <multiplicity id="25" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="26">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="27" name="panelGrafica"/>      
+      <multiplicity id="28" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="29">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="30" name="ventana"/>      
+      <multiplicity id="31" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <association id="32">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="33" name="panelActivos"/>      
+      <multiplicity id="34" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="false"/>  
+  </association>  
+  <dependency id="35">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <dependency id="36">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="false" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="false" protected="false" private="true" static="true"/>    
+    <operations public="true" package="false" protected="false" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="false"/>
+</class-diagram>

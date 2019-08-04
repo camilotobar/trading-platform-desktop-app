@@ -1,0 +1,42 @@
+Reporte activos 2016-11-28_07-58-11
+
+EUR - ultimo precio del mercado: Ask [1.1488], Bid [1.1482] 
+	Euro
+Lote unitario de: 100 unidades
+
+GBP - ultimo precio del mercado: Ask [1.2119], Bid [1.2109] 
+	Libra Esterlina
+Lote unitario de: 100 unidades
+
+AUD - ultimo precio del mercado: Ask [0.8093], Bid [0.8075] 
+	Dólar Australiano
+Lote unitario de: 1000 unidades
+
+GOOGL - ultimo precio del mercado: Ask [736.2701], Bid [735.8901] 
+	Acción Alphabet Inc.
+Lote unitario de: 1 unidades
+
+AAPL - ultimo precio del mercado: Ask [105.8046], Bid [105.6146] 
+	Acción Apple Inc.
+Lote unitario de: 1 unidades
+
+XAU - ultimo precio del mercado: Ask [1221.4535], Bid [1220.9235] 
+	Oro Ref. Común
+Lote unitario de: 1 unidades
+
+BRENT - ultimo precio del mercado: Ask [45.3896], Bid [45.3196] 
+	Petróleo Ref. Europa
+Lote unitario de: 10 unidades
+
+COLTES5Y - ultimo precio del mercado: Ask [15350.491], Bid [15349.041] 
+	Bono Tesoro Colombia
+Tasa de interés de: 0.15%
+
+BRA5Y - ultimo precio del mercado: Ask [18454.866], Bid [18453.666] 
+	Bono Tesoro Brasil
+Tasa de interés de: 0.15%
+
+USM6M - ultimo precio del mercado: Ask [3000.48], Bid [2999.18] 
+	Hipoteca Florida EE.UU.
+Tasa de interés de: 0.02%
+
